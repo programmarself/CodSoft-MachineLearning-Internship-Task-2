@@ -8,6 +8,8 @@ experiment with algorithms like Logistic Regression, Decision Trees,
 or Random Forests to classify transactions as fraudulent or
 legitimate.
 
+![Credit Card Fraud Detection](https://github.com/programmarself/CodSoft-MachineLearning-Internship-Task-2/assets/134633289/7028eefd-9a9e-4ca6-a786-abb38e63fb42)
+
 <h1 style="font-family: 'poppins'; font-weight: bold; color: Green;">👨💻Author: Irfan Ullah Khan</h1>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/programmarself) 
